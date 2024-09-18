@@ -6,7 +6,9 @@
 # GTKmm Menu
 [gtkmm-menu](https://private-user-images.githubusercontent.com/98550/363464788-da6aa7d9-833a-41a7-a814-4020461ab042.webm)
 
+# GTKmm Notepad Zoom
 
+[gtkm-Notepad-Zoom](https://private-user-images.githubusercontent.com/98550/368467797-6e14481b-c6ee-451a-b09e-e1653b5e60ea.webm)
 
 
 Jobs: https://www.indeed.com/q-gtk-jobs.html?vjk=608806e0383c76b5
