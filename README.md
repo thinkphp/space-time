@@ -1,4 +1,4 @@
-#Browser PyQt5
+# Browser PyQt5
 [Browser PyQt5](https://private-user-images.githubusercontent.com/98550/369859215-9a01c967-b2f4-478a-8fc7-4efb4e9c7166.webm)
 
 # Traffic Light Pedestrian and Cars Simulation
